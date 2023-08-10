@@ -1,6 +1,7 @@
 # igms-new-ui
 
->Note: I will include a link to another IGMS website redesign Idea(this will be the proposed changes to the Landing Page
+>Note: I will include a link to another IGMS website redesign Idea(this will be the proposed changes to the Landing Page)
+>https://github.com/MarzanRoy/IGMS-Landing.git
 
 ## Project setup
 ```
