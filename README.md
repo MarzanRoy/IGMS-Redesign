@@ -1,5 +1,7 @@
 # igms-new-ui
 
+>Note: I will include a link to another IGMS website redesign Idea(this will be the proposed changes to the Landing Page
+
 ## Project setup
 ```
 npm install
