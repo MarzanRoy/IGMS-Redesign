@@ -1,4 +1,5 @@
 # igms-new-ui
+This is the new UI idea for the IGMS website portal consisting of changes to navigation, data, and other UI/UX components.
 
 ## View the demo of this website
 https://igms-redesign.vercel.app/
