@@ -2,9 +2,9 @@
 This is the new UI idea for the IGMS website portal consisting of changes to navigation, data, and other UI/UX components.
 
 ## View the demo of this website
-https://igms-redesign.vercel.app/
+Link to demo: [https://igms-redesign.vercel.app/](https://igms-redesign.vercel.app/)
 
->Note: I will include a link to another IGMS website redesign Idea(this will be the proposed changes to the Landing Page)
+>IGMS Landing webpage idea: <br>
 >[https://github.com/MarzanRoy/IGMS-Landing.git](https://github.com/MarzanRoy/IGMS-Landing.git)
 
 ## Project setup
