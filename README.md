@@ -5,7 +5,7 @@ This is the new UI idea for the IGMS website portal consisting of changes to nav
 https://igms-redesign.vercel.app/
 
 >Note: I will include a link to another IGMS website redesign Idea(this will be the proposed changes to the Landing Page)
->https://github.com/MarzanRoy/IGMS-Landing.git
+>[https://github.com/MarzanRoy/IGMS-Landing.git](https://github.com/MarzanRoy/IGMS-Landing.git)
 
 ## Project setup
 ```
