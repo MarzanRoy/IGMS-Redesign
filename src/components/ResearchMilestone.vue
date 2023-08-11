@@ -223,6 +223,9 @@ export default {
     }
   },
   computed: {
+    tableWidth() {
+      return (this.$route.path.split('/')[1] === 'top-navbar') ? '90vw' : '75vw';
+    },
     fill_sorts() {
       return this.columns.map(column => ({
         name: column,
@@ -303,7 +306,7 @@ export default {
   overflow-x: auto;
   height: fit-content;
   width: fit-content;
-  max-width: 90vw;
+  max-width: v-bind(tableWidth);
   max-height: 70vh;
 }
 

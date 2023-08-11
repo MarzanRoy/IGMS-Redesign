@@ -113,7 +113,6 @@ div.container.mobile .breadcrumb-container {
   flex: 1; /* Grow to fill remaining space */
   display: flex;
   flex-direction: column;
-  margin-left: 1em;
   justify-content: center;
   align-items: center;
 }
