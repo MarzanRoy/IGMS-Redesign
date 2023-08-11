@@ -98,8 +98,7 @@ export default {
   },
   mounted() {
     this.currentStep = this.getCurrentStepText;
-    console.log(this.$route.path.split('/'));
-    if (this.$route.path.split('/').length <= 2) {
+    if (this.$route.path.split('/').length <= 3) {
       this.$router.push(this.items[0].to);
     }
   },
