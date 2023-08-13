@@ -27,8 +27,8 @@ a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
-  width: 100vw;
+  height: 100dvh;
+  width: 100dvw;
   text-align: center;
   gap: 50px;
 }

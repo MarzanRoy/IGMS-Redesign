@@ -48,8 +48,8 @@ export default {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100vw;
-  height: 100vh;
+  width: 100dvw;
+  height: 100dvh;
   background-color: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
   z-index: 1;
 }
@@ -63,7 +63,7 @@ export default {
   flex: 1;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 100dvh;
   overflow-y: auto; /* Add scrollbars if content is taller than viewport */
 }
 
