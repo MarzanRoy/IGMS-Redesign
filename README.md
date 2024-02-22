@@ -1,6 +1,5 @@
 # igms-new-ui
-
-Started: Y3S1, 2024
+_Started: Y3S1, 2024_
 
 These are the new UI/UX improvements for the IGMS website portal:
 
