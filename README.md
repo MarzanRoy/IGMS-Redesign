@@ -2,7 +2,7 @@
 
 Started: Y3S1, 2024
 
-These are the new UI/UX improvements for the IGMS website portal
+These are the new UI/UX improvements for the IGMS website portal:
 
 - Changes to data presentation
   - Data like in the Dashboard should be presented as cards
