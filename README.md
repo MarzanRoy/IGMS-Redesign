@@ -1,6 +1,7 @@
-# IGMS Portal Redesign
+# Internship Project
 _Started: Y3S1, 2024_
 
+#### Task: IGMS Portal Redesign
 These are the new UI/UX improvements for the IGMS website portal:
 
 - Changes to data presentation
